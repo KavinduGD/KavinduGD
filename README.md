@@ -7,6 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kavindu-gihan.online/](https://www.kavindu-gihan.online/)
 
+- 🎮 Try a fun game I built  
+  **Play here:** https://sri-lankan-parliment-shooter-mini-game.website
+
 - 📫 How to reach me **kavidudharmasiri90@gmail.com**
 
 - ⚡ Fun fact **I am batman**
