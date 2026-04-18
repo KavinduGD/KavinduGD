@@ -1,28 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kavindu Gihan Dharmasiri</h1>
-<h3 align="center">A passionate DevOps/Software engineer</h3>
+<h3 align="center">A passionate DevOps engineer</h3>
 
 - 🔭 I’m currently working on [Fun](Projects)  
-- 🌱 I’m currently learning **DevOps and Software Engineering principles** - 👨‍💻 All of my projects are available at  
+- 🌱 I’m currently learning **DevOps principles** - 👨‍💻 All of my projects are available at  
   https://www.kavindu-gihan.online/  
 - 📫 How to reach me **kavidudharmasiri90@gmail.com** - ⚡ Fun fact **I am Batman 🦇**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <a href="https://linkedin.com/in/kavindu-dharmasiri" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCAZ3TqnqZsYi_C9DM7mvj3Q" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-  </a>
+<a href="https://linkedin.com/in/kavindu-dharmasiri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAZ3TqnqZsYi_C9DM7mvj3Q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
