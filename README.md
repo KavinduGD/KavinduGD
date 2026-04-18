@@ -1,59 +1,21 @@
-## Hey 👋, I'm Kavindu Gihan!  
-  
+<h1 align="center">Hi 👋, I'm Kavindu Gihan Dharmasiri</h1>
+<h3 align="center">A passionate devops engineer</h3>
 
-<a href="https://linkedin.com/in/kavindu-dharmasiri" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/kavindugd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@kavidudharmasiri90" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@KavinduGihanDharnasiri" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
+- 🔭 I’m currently working on [Fun](Projects)
 
+- 🌱 I’m currently learning **Devops principles**
 
+- 👨‍💻 All of my projects are available at [https://www.kavindu-gihan.online/](https://www.kavindu-gihan.online/)
 
-### Glad to see you here!  
-Software Engineer with a strong foundation in full-stack web development, cloud-native architectures, and scalable
-system design. Experienced in building robust applications using modern frameworks like the MERN stack and React,
-and designing highly available backend APIs on AWS. Adept at bridging the gap between development and operations
-by implementing automated CI/CD pipelines and infrastructure as code, ensuring secure, reliable, and rapid software
-delivery. Passionate about leveraging technology to build user-centric software solutions.  
-  
+- 📫 How to reach me **kavidudharmasiri90@gmail.com**
 
-<br/>  
+- ⚡ Fun fact **I an batman**
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-🔭 I’m currently working on Fun Projects  
-  
-
-🌱 I’m currently learning Cloud and Devops principles  
-  
-
-👨‍💻 All of my projects are available at https://www.kavindu-gihan.online/  
-  
-
-⚡ Fun fact: I am Batman  
-  
-
-📫 How to reach me kavidudharmasiri90@gmail.com   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kavindu dharmasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu dharmasiri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucaz3tqnqzsyi_c9dm7mvj3q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucaz3tqnqzsyi_c9dm7mvj3q" height="30" width="40" /></a>
+</p>
 
 ## Languages and Tools  
 <div align="center">  
@@ -100,11 +62,11 @@ delivery. Passionate about leveraging technology to build user-centric software 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavindugd&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindugd&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 
 </td></tr></table>  
 
@@ -114,13 +76,9 @@ delivery. Passionate about leveraging technology to build user-centric software 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=kavinduGD&&style=flat-square)  
   
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
