@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Gihan Dharmasiri</h1>
 <h3 align="center">A passionate Software / Devops engineer</h3>
 
-- 🔭 I’m currently working on [Fun](Projects)
+- 🔭 I’m currently working on Fun
 
 - 🌱 I’m currently learning **SE/Devops principles**
 
