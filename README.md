@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kavindu Gihan Dharmasiri</h1>
-<h3 align="center">A passionate devops engineer</h3>
+<h3 align="center">A passionate Software / Devops engineer</h3>
 
 - 🔭 I’m currently working on [Fun](Projects)
 
-- 🌱 I’m currently learning **Devops principles**
+- 🌱 I’m currently learning **SE/Devops principles**
 
 - 👨‍💻 All of my projects are available at [https://www.kavindu-gihan.online/](https://www.kavindu-gihan.online/)
 
